@@ -8,7 +8,7 @@ namespace DAL
     {
         public static IDbConnection GetConnection()
         {
-            return new SqlConnection("Server=mssql-db;Database=Workouter;User Id=sa;Password=HelloW0rld;");
+            return new SqlConnection("Server=mssql-db," + Environment.GetEnvironmentVariable("SQL_SERVER_PORT") + ";Database=Workouter;User Id=sa;Password=HelloW0rld;");
         }
     }
 }
