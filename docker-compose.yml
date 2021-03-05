@@ -8,3 +8,12 @@ services:
     environment: 
       ACCEPT_EULA: Y
       SA_PASSWORD: "HelloW0rld"
+  
+  application:
+    image: boulundeasv/workouter
+    environment: 
+      ASPNETCORE_ENVIRONMENT: Development
+    depends_on: 
+      - mssql-db
+    ports: 
+      - 61000:80
