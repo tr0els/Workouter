@@ -13,7 +13,6 @@ services:
     image: boulundeasv/workouter
     environment: 
       ASPNETCORE_ENVIRONMENT: Development
-      SQL_SERVER_PORT: 62000
     depends_on: 
       - mssql-db
     ports: 
