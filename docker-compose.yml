@@ -17,3 +17,12 @@ services:
       - mssql-db
     ports: 
       - 11000:80
+
+  flyway:
+    image: flyway/flyway
+    command: migrate
+    volumes:
+      - ./db:/flyway/sql
+      - ./db:/flyway/conf
+    depends_on: 
+      - mssql-db

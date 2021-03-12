@@ -15,7 +15,8 @@ pipeline {
         stage("Release to staging") {
             steps {
                 sh "docker-compose pull"
-                sh "docker-compose up -d"
+                sh "docker-compose up -d application mssql-db"
+		sh "docker-compose up flyway"
             }
         }
     }
