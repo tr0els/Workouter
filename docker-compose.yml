@@ -3,11 +3,14 @@ version: "3.3"
 services:
   mssql-db:
     image: mcr.microsoft.com/mssql/server
+    restart: always
     ports:
       - 12000:1433
     environment: 
       ACCEPT_EULA: Y
       SA_PASSWORD: "HelloW0rld"
+    volumes:
+      - ./db/data:/var/opt/sqlserver
   
   application:
     image: tr0els/workouter

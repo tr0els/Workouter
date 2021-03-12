@@ -63,11 +63,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/31724037/ws?session=eyJ2IjoiVjMiLCJ1IjozMTcyNDAzNywicyI6NjYwMTI2OTUzLCJjIjoyNjg0NDIzMTEsInQiOjE2MTU1NTEyNTN9--37f3654b493f1a29f35ecf7c05c354dc20c86c02112b52f3199e75e97150445c" data-refresh-url="/_alive" data-session-id="62d9cdaddc279bc2f8670749698c5b9a4338e2f603fd2a1dfcf5dd780d9c9d97">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/31724037/ws?session=eyJ2IjoiVjMiLCJ1IjozMTcyNDAzNywicyI6NjYwMTI2OTUzLCJjIjozNjQ2MDg3NjIsInQiOjE2MTU1NTI3MDd9--935a3ecb32cc83f28dfe9c4d08ee380a23d152dd571061a95e168d8f458e86a7" data-refresh-url="/_alive" data-session-id="62d9cdaddc279bc2f8670749698c5b9a4338e2f603fd2a1dfcf5dd780d9c9d97">
     <link rel="shared-web-socket-src" href="/socket-worker-6832eced.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="FB8A:0F07:C85ADC:CFFF3B:604B5B10" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f30f29549b65d571b6c2b617bb5979a59491e6cb86545128c25f27041be9baab" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DaGFybG90dGVNYWprYS9Xb3Jrb3V0ZXIvdHJlZS9tYWluL2RiIiwicmVxdWVzdF9pZCI6IkZCOEE6MEYwNzpDODVBREM6Q0ZGRjNCOjYwNEI1QjEwIiwidmlzaXRvcl9pZCI6IjYwODQ2MzIxNTY0MDEzMTU4MDQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="66cab13edc7749015d063a0476b53918dd2e44694e7a47da8c2f532f113da785" data-pjax-transient="true" />
+  <meta name="request-id" content="FE2D:D535:D71324:E01030:604B60C3" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f30f29549b65d571b6c2b617bb5979a59491e6cb86545128c25f27041be9baab" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9DaGFybG90dGVNYWprYS9Xb3Jrb3V0ZXIvdHJlZS9tYWluL2RiIiwicmVxdWVzdF9pZCI6IkZFMkQ6RDUzNTpENzEzMjQ6RTAxMDMwOjYwNEI2MEMzIiwidmlzaXRvcl9pZCI6IjYwODQ2MzIxNTY0MDEzMTU4MDQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="24e47bb7fb9c813f3bebc481fb3cebb3411266cc03eb35414adb563e5e392f1b" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:344794228" data-pjax-transient>
 
@@ -106,7 +106,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="Y2VjNDNmOWNlMjUxYTkzZmJmNGZiNGE4MDRhYWIwOTA2YTU2NGU0NmMyNzE0Yjk2ZTUzNTVhNTRlZTlkMDgwOHx7InJlbW90ZV9hZGRyZXNzIjoiOTUuMTU0LjMxLjE3IiwicmVxdWVzdF9pZCI6IkZCOEE6MEYwNzpDODVBREM6Q0ZGRjNCOjYwNEI1QjEwIiwidGltZXN0YW1wIjoxNjE1NTUxMjUzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="ZTZjMTMwMWY2NTVhNjdiMjMyMThlYzVjYzlmNjZhZGQyNDg2NDRjYTJjNzA3YjI5M2E0YmQ4NDNkOGI2MmEwMnx7InJlbW90ZV9hZGRyZXNzIjoiOTUuMTU0LjMxLjE3IiwicmVxdWVzdF9pZCI6IkZFMkQ6RDUzNTpENzEzMjQ6RTAxMDMwOjYwNEI2MEMzIiwidGltZXN0YW1wIjoxNjE1NTUyNzA3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
 
@@ -195,7 +195,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="goVuvM9626qQhqmIcqRum1Kjp4C95RWuhm+9B9X3KMcooUTZYn/Kld5wlVLTa+y7OznEYtYrSIxKtoq9MJ6YMw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="rWubE73pOYd92Mtx4RsZLHxZONL8Rzy6o4b9FxZeJTkHT7F2EOwouDMu96tA1JsMFcNbMJeJYZhvX8qt8zeVzQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -382,7 +382,7 @@
       <img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/31724037?s=40&amp;v=4" width="20" height="20" alt="@tr0els" />
       tr0els
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="70iTv3OB6B6Mx5n5/sdaJm5DMfkECyOW1ILBEUlFPzJU39KcBO5vm7mPALkmwt3uHdaM9adKoYYoJEzauNc3tw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5+RyEgNRL2oNEE55M6Ob04TIZEVHLxI9f0tb8J01bklcczMxdD6o7zhY1znrphwb913ZSeRukC2D7dY7bKdmzA==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -402,7 +402,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzE3MjQwMzciLCJ0IjoxNjE1NTUxMjUzfQ==--cf983c7eee07feb39ee2932f1246fbbeaf1d502ad63128a19cbe73b1cb1b4210">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzE3MjQwMzciLCJ0IjoxNjE1NTUyNzA3fQ==--c89011868e5823525d6aa2f08ffdca66bcbd2ae452fdde509ae3e572debae847">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -619,7 +619,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FXELhDY8iLowl24SMRaeSuzqAbWkJUpagKj1luYfByg15KXp6B3sjhwup2zYgD8duIk/6XbtCKUlT7sDvt4tUQ==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Z0/KOOt9/JykudThclW/nqVLHA76R+4J+TpfyS9n16BH2mRVNVyYqIgAHZ+bwx7J8SgiUiiPrPZc3RFcd6b92Q==" />
 
                 <input type="hidden" name="repository_id" value="344794228">
 
@@ -721,7 +721,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iXigC8oo6VyfWpo71dMC3oUW7gAGwXhtpiKt7aQzIfyp7Q5mFAmNaLPjU0U8RaOJ0XXQXNQJOpIDxeN4/PILhQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hpsP05bxydQ16BtaAbCJsdV7eRNN3DBZ/Yx3oP1oa2CmDqG+SNCt4BlR0iToJijmgRhHT58UcqZYazk1palBGQ==" />
 
               <input type="hidden" name="repository_id" value="344794228">
 
@@ -857,7 +857,7 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/CharlotteMajka/Workouter/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="tw5Z6n9ew0xRuuHrfLoaBGl4GzNrul34vwqgNIHYdHrCeRSTAFxxKFWpafFkRKtmD5+4JD2Uz2GDgZL3h7eGHA==" />
+    <form class="starred js-social-form" action="/CharlotteMajka/Workouter/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mpitYS+I4DQF7Km/qiOebMDlBDrqZ2g3NHQaobpHw1vv7+AYUIpSUAH/IaWy3S8OpgKnLbxJ+q4I/yhivCgxPQ==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar CharlotteMajka/Workouter" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:344794228,&quot;originating_url&quot;:&quot;https://github.com/CharlotteMajka/Workouter/blob/main/db/V1__workout_table.sql&quot;,&quot;user_id&quot;:31724037}}" data-hydro-click-hmac="1648200626ea986a55688c135b700c099139825b2b4a53b520696e064de222c3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
@@ -867,7 +867,7 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/CharlotteMajka/Workouter/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Q4TOLtYcFD5SeSK8bFPO4p2abdR7eGlGWhFSrPqVq2kGfeH+uw8tj2CnVaTZvx9uOD+dpjCRUkn5dLCH00U1QQ==" />
+    <form class="unstarred js-social-form" action="/CharlotteMajka/Workouter/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6WCycPdePZk/9UZbxEDLFG+ZwV8RiMNTBiOGB4NoQp6smZ2gmk0EKA0rMUNxrBqYyjwxLVph+FylRmQsqrjctg==" />
       <input type="hidden" name="context" value="repository">
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star CharlotteMajka/Workouter" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:344794228,&quot;originating_url&quot;:&quot;https://github.com/CharlotteMajka/Workouter/blob/main/db/V1__workout_table.sql&quot;,&quot;user_id&quot;:31724037}}" data-hydro-click-hmac="c2e2154a96f9b5ef27f2539f478474dcd5984fa5cda2789a3d59362a559146ba" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
@@ -1282,13 +1282,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/CharlotteMajka/Workouter/edit/main/db/V1__workout_table.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IhJ9c/yh7MbsSY60PnWaP4LUizbb/jIqF1NB3v0inv4iFttyp9ptz6gFN0nHk76GgpMxeWZKsp8Y6cudzZJfbQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/CharlotteMajka/Workouter/edit/main/db/V1__workout_table.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bLmsCjoCnQGux3K3TUMys4Ht8RKmqDVTY5MY3VSZfgZsvQoLYXkcCOqLy0q0pRYKgapLXRscteZsKZKeZCm/lQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/CharlotteMajka/Workouter/delete/main/db/V1__workout_table.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="R2nVk8c/rdiHFWb473RMzmZTmyNPBZKCHcl9hFkCHwKEJAkgR9GmBdqwP+AfA8TxUGDWkH4vW86AQXXPiNlxfg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/CharlotteMajka/Workouter/delete/main/db/V1__workout_table.sql" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yh46mAu7jdXBvwLNqPhKZGM2HgMLLtxtylB9w0ce/D8JU+Yri1WGCJwaW9VYj8JbVQVTsDoEFSFX2HWIlsWSQw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trash" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
