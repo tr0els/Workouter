@@ -3,7 +3,7 @@ version: "3.3"
 services:
   mssql-db:
     image: mcr.microsoft.com/mssql/server
-    container_name: db
+    container_name: mssql
     ports:
       - 12000:1433
     environment: 
