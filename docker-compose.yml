@@ -8,8 +8,6 @@ services:
     environment: 
       ACCEPT_EULA: Y
       SA_PASSWORD: "HelloW0rld"
-    volumes:
-      - ./db/data:/var/opt/sqlserver
   
   application:
     image: tr0els/workouter
