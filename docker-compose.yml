@@ -3,11 +3,15 @@ version: "3.3"
 services:
   mssql-db:
     image: mcr.microsoft.com/mssql/server
+    container_name: db
     ports:
       - 12000:1433
     environment: 
       ACCEPT_EULA: Y
       SA_PASSWORD: "HelloW0rld"
+      // MYSQL_DATABASE: ContactBook
+    volumes:
+      - ./db/data:/var/opt/sqlserver
   
   application:
     image: tr0els/workouter
